@@ -1,8 +1,3 @@
-'''
-Created on Oct 29, 2012
-
-@author: C5165780
-'''
 from datetime import datetime
 
 def main():
