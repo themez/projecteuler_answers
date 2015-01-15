@@ -1,3 +1,8 @@
+'''
+Created on Oct 29, 2012
+
+@author: themez
+'''
 from datetime import datetime
 
 def main():
